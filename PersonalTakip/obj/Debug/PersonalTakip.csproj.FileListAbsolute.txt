@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\PersonalTakip\PersonalTakip\bin\Debug\PersonalTakip.exe.config
+C:\Users\ASUS\source\repos\PersonalTakip\PersonalTakip\bin\Debug\PersonalTakip.exe
+C:\Users\ASUS\source\repos\PersonalTakip\PersonalTakip\bin\Debug\PersonalTakip.pdb
+C:\Users\ASUS\source\repos\PersonalTakip\PersonalTakip\obj\Debug\PersonalTakip.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\PersonalTakip\PersonalTakip\obj\Debug\PersonalTakip.Form1.resources
+C:\Users\ASUS\source\repos\PersonalTakip\PersonalTakip\obj\Debug\PersonalTakip.Properties.Resources.resources
+C:\Users\ASUS\source\repos\PersonalTakip\PersonalTakip\obj\Debug\PersonalTakip.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\PersonalTakip\PersonalTakip\obj\Debug\PersonalTakip.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PersonalTakip\PersonalTakip\obj\Debug\PersonalTakip.exe
+C:\Users\ASUS\source\repos\PersonalTakip\PersonalTakip\obj\Debug\PersonalTakip.pdb
